@@ -3,3 +3,7 @@ pandas
 matplotlib
 scipy
 black
+yapf
+jupyterlab
+notebook
+jupyter_nbextensions_configurator

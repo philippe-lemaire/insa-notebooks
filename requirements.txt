@@ -7,3 +7,4 @@ yapf
 jupyterlab
 notebook
 jupyter_nbextensions_configurator
+sympy

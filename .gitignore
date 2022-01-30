@@ -130,3 +130,7 @@ dmypy.json
 
 # proteome file
 *.fasta
+
+
+# zip files
+*.zip

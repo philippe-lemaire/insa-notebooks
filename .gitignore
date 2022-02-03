@@ -134,3 +134,7 @@ dmypy.json
 
 # zip files
 *.zip
+
+# spreadsheet files
+*.csv
+*.xls

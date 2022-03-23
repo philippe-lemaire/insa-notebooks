@@ -142,3 +142,9 @@ dmypy.json
 
 # txt files
 *.txt
+
+# data folder
+data/
+
+# export folder
+export/

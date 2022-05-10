@@ -132,9 +132,6 @@ dmypy.json
 *.fasta
 
 
-# zip files
-*.zip
-
 # spreadsheet files
 *.csv
 *.xls
